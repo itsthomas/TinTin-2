@@ -1,0 +1,9 @@
+{
+  "singleQuote": true,
+  "overrides": [{
+    "files": "src/**/*.css",
+    "options": {
+      "singleQuote": false
+    }
+  }]
+}
